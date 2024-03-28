@@ -1,7 +1,7 @@
 // URL de la API de BoredAPI
 const apiUrl = 'http://www.boredapi.com/api/activity/';
 
-// Función para obtener una actividad aleatoria
+// Función para obtener una actividad aleatoriaaaaa
 async function getRandomActivity() {
   try {
     const response = await fetch(apiUrl);
